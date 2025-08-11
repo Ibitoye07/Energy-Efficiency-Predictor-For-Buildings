@@ -1,6 +1,12 @@
-# Powerminds--Data-Science
+# Building Energy Efficiecny
 Energy Efficiency: Building a Machine Learning Model to Predict Heating and Cooling Loads of Buildings
 This project builds a predictive model to predict heating and cooling loads of buildings based on the following features: Relative Compactness, Surface Area, Wall Area, Roof Area, Overall Height, Orientation, Glazing Area, Glazing Area Distribution.
+
+# Why Heating and Cooling Load Prediction Matters
+**Energy Management Optimization**:
+Heating and cooling typically represent 40-60% of a building's total energy consumption
+Accurate load prediction enables optimal HVAC system sizing and operation
+Prevents over-sizing equipment (capital waste) or under-sizing (comfort issues)
 
 ⚙️ Methodology
 

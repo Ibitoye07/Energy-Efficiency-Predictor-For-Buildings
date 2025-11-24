@@ -32,6 +32,7 @@ Models were wrapped using `MultiOutputRegressor` to predict both heating and coo
 
 ● Mean Square Error (MSE)
 
+![image alt](https://github.com/Ibitoye07/Energy-Efficiency-Predictor-For-Buildings/blob/main/Evaluation%20metrics%20of%20models.jpg?raw=true)
 
 Random Forest and XGBoost models significantly outperform Linear Regression, achieving near-perfect predictions for both targets.
 
